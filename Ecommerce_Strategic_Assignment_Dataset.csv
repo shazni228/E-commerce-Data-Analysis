@@ -1,0 +1,451 @@
+Date,Traffic_Source,Campaign,Customer_Type,Visitors,Marketing_Spend,Add_to_Cart,Purchases,Revenue,Cart_Abandonment_Rate,Repeat_Purchase_Rate,Conversion_Rate
+2023-01-01,Email Campaign,Flash Deals,New,1226,1469.85,261,46.0,6416.7,19.11,20.99,8.91
+2023-01-02,Social Media,Flash Deals,New,1559,4429.12,274,153.0,6692.86,49.04,21.91,7.08
+2023-01-03,Direct,Winter Promo,New,960,3763.82,69,238.0,4355.64,36.69,8.29,5.92
+2023-01-04,Direct,Flash Deals,New,1394,4770.05,162,187.0,5613.54,10.42,10.85,8.47
+2023-01-05,Organic Search,Summer Sale,Returning,1230,1720.68,189,117.0,4717.28,20.22,24.67,6.46
+2023-01-06,Email Campaign,Flash Deals,New,1195,2808.55,96,287.0,1622.2,20.43,29.27,3.62
+2023-01-07,Direct,Summer Sale,Returning,1824,2904.23,50,256.0,4934.49,12.77,11.57,2.86
+2023-01-08,Email Campaign,Summer Sale,Returning,1144,4903.62,139,192.0,1876.54,48.39,11.79,2.37
+2023-01-09,Organic Search,Holiday Offers,Returning,1738,469.2,191,209.0,4645.19,29.13,16.82,9.1
+2023-01-10,Google Ads,Summer Sale,Returning,221,1597.92,369,141.0,6336.27,45.83,29.6,7.39
+2023-01-11,Organic Search,Summer Sale,New,566,1035.46,87,65.0,6214.73,22.89,11.72,9.44
+2023-01-12,Social Media,Winter Promo,New,1338,1415.53,342,83.0,6963.59,15.01,15.17,6.43
+2023-01-13,Organic Search,Weekend Discount,Returning,430,2477.87,431,149.0,1857.35,28.97,27.29,5.26
+2023-01-14,Email Campaign,Winter Promo,New,1582,1926.17,188,212.0,6869.11,14.56,5.07,1.54
+2023-01-15,Email Campaign,Flash Deals,New,187,2033.99,405,200.0,3809.33,29.44,5.99,7.04
+2023-01-16,Direct,Weekend Discount,New,1496,4236.64,382,48.0,4591.41,46.81,20.1,6.24
+2023-01-17,Direct,Holiday Offers,New,1223,4657.08,308,168.0,8721.88,30.83,27.68,9.91
+2023-01-18,Direct,Holiday Offers,Returning,971,445.04,210,286.0,1081.27,34.66,10.97,3.15
+2023-01-19,Organic Search,Holiday Offers,Returning,1787,1123.7,439,,6295.71,16.27,16.74,5.78
+2023-01-20,Email Campaign,Winter Promo,New,230,3388.6,227,183.0,6388.43,11.75,16.26,6.86
+2023-01-21,Google Ads,Holiday Offers,New,1785,1857.37,59,132.0,4569.94,14.43,16.82,6.8
+2023-01-22,Email Campaign,Holiday Offers,New,1432,1345.4,310,206.0,3133.25,33.94,20.56,6.05
+2023-01-23,Email Campaign,Flash Deals,New,869,1546.92,456,251.0,,13.8,16.74,7.99
+2023-01-24,Direct,Flash Deals,New,443,1680.5,187,246.0,8953.39,25.04,16.19,2.84
+2023-01-25,Social Media,Winter Promo,New,1615,4258.48,221,117.0,4978.22,32.0,16.86,7.53
+2023-01-26,Direct,Holiday Offers,New,1537,,435,74.0,3978.0,25.55,19.77,6.58
+2023-01-27,Direct,Winter Promo,New,905,3573.66,62,130.0,5039.0,16.55,18.43,9.06
+2023-01-28,Social Media,Flash Deals,Returning,485,2808.82,217,171.0,7024.51,20.95,26.35,8.62
+2023-01-29,Google Ads,Winter Promo,New,1315,1552.9,179,265.0,2311.81,47.13,6.24,3.84
+2023-01-30,Direct,Flash Deals,Returning,1055,2156.93,133,88.0,5044.9,37.04,25.83,3.49
+2023-01-31,Direct,Holiday Offers,New,376,1355.41,370,269.0,6290.96,29.84,26.1,9.83
+2023-02-01,Social Media,Holiday Offers,Returning,1284,3096.42,368,55.0,9537.25,10.51,12.12,5.75
+2023-02-02,Google Ads,Winter Promo,New,559,,150,,,49.7,16.57,9.16
+2023-02-03,Social Media,Flash Deals,Returning,1437,,378,167.0,4233.26,36.86,15.96,2.47
+2023-02-04,Google Ads,Holiday Offers,Returning,121,3176.68,322,246.0,,22.68,10.46,6.79
+2023-02-05,Organic Search,Flash Deals,New,352,1051.94,314,263.0,6449.84,45.17,14.92,8.29
+2023-02-06,Direct,Flash Deals,New,847,,448,220.0,4210.59,20.34,6.11,9.53
+2023-02-07,Direct,Flash Deals,New,956,2044.24,457,173.0,5801.61,31.76,11.95,4.04
+2023-02-08,Social Media,Summer Sale,Returning,1684,348.77,87,92.0,8036.11,35.44,25.42,7.52
+2023-02-09,Direct,Weekend Discount,Returning,574,4444.42,468,220.0,7348.47,18.84,12.11,5.85
+2023-02-10,Organic Search,Weekend Discount,New,1182,,143,,5017.32,49.14,25.46,1.55
+2023-02-11,Email Campaign,Winter Promo,New,610,2936.44,144,148.0,8777.95,39.93,18.29,7.21
+2023-02-12,Email Campaign,Summer Sale,New,1805,2248.52,354,236.0,6023.26,32.31,27.0,7.21
+2023-02-13,Direct,Weekend Discount,Returning,1599,3392.93,118,80.0,5859.15,17.22,19.37,9.38
+2023-02-14,Google Ads,Summer Sale,Returning,799,1707.95,367,123.0,1307.69,12.15,5.74,5.48
+2023-02-15,Email Campaign,Holiday Offers,New,1075,859.7,493,61.0,9880.24,22.8,21.89,3.07
+2023-02-16,Social Media,Weekend Discount,New,1906,4911.02,285,44.0,2106.74,40.13,6.12,1.4
+2023-02-17,Social Media,Summer Sale,New,289,4210.77,483,58.0,3080.18,20.77,16.26,4.74
+2023-02-18,Email Campaign,Weekend Discount,New,1057,4315.98,383,150.0,1465.27,31.58,28.24,3.72
+2023-02-19,Organic Search,Winter Promo,Returning,786,1326.23,422,248.0,6760.03,39.12,9.13,7.85
+2023-02-20,Social Media,Weekend Discount,Returning,1057,290.29,425,,3022.31,14.32,14.75,4.19
+2023-02-21,Direct,Winter Promo,New,662,1586.0,186,191.0,,37.41,23.25,9.54
+2023-02-22,Google Ads,Holiday Offers,New,1999,,467,121.0,1797.0,13.67,27.06,9.66
+2023-02-23,Organic Search,Winter Promo,New,1690,1700.59,125,31.0,1929.78,48.61,21.77,6.59
+2023-02-24,Direct,Winter Promo,Returning,1367,4156.56,84,294.0,6262.04,29.54,11.45,9.36
+2023-02-25,Google Ads,Weekend Discount,New,931,1430.56,50,120.0,,16.03,21.87,7.85
+2023-02-26,Google Ads,Summer Sale,New,1628,4829.73,345,63.0,4576.41,23.7,12.42,5.92
+2023-02-27,Direct,Weekend Discount,Returning,1254,2340.6,369,36.0,5319.07,26.54,22.96,2.62
+2023-02-28,Organic Search,Weekend Discount,New,1608,4225.91,455,76.0,7173.71,40.33,28.85,5.13
+2023-03-01,Organic Search,Summer Sale,Returning,1942,1052.46,109,31.0,1156.42,39.74,23.03,6.05
+2023-03-02,Organic Search,Holiday Offers,Returning,746,2115.63,369,,,34.48,26.57,8.78
+2023-03-03,Email Campaign,Holiday Offers,Returning,120,3527.61,398,235.0,9757.88,14.24,5.05,5.33
+2023-03-04,Social Media,Winter Promo,Returning,940,777.93,377,283.0,6221.01,16.06,22.94,9.08
+2023-03-05,Direct,Holiday Offers,Returning,266,750.45,316,168.0,3288.02,13.75,25.74,7.07
+2023-03-06,Organic Search,Summer Sale,Returning,1397,,410,100.0,5695.57,33.09,6.01,2.23
+2023-03-07,Social Media,Winter Promo,New,487,3601.52,278,234.0,4083.88,45.09,26.79,9.95
+2023-03-08,Direct,Weekend Discount,Returning,700,301.23,319,217.0,5790.2,27.35,11.42,5.75
+2023-03-09,Google Ads,Weekend Discount,Returning,415,2054.22,365,219.0,2131.67,16.43,21.63,4.53
+2023-03-10,Social Media,Winter Promo,New,113,2224.25,335,,2194.43,32.32,25.01,6.93
+2023-03-11,Google Ads,Holiday Offers,Returning,341,3745.81,340,,2291.88,42.47,21.57,1.98
+2023-03-12,Email Campaign,Winter Promo,Returning,876,1329.22,262,287.0,9458.38,39.67,7.31,6.73
+2023-03-13,Google Ads,Flash Deals,Returning,1469,1003.24,214,162.0,7596.09,45.26,19.91,5.48
+2023-03-14,Email Campaign,Summer Sale,New,664,496.28,54,78.0,2461.44,21.12,18.74,4.66
+2023-03-15,Google Ads,Summer Sale,Returning,997,2198.74,388,45.0,2695.14,17.76,27.51,9.58
+2023-03-16,Email Campaign,Flash Deals,Returning,1463,3473.65,428,66.0,7577.47,45.19,15.11,5.7
+2023-03-17,Google Ads,Summer Sale,Returning,191,385.15,127,285.0,2405.47,36.3,13.03,2.97
+2023-03-18,Email Campaign,Winter Promo,Returning,1490,4584.55,459,35.0,3111.05,22.44,23.75,5.13
+2023-03-19,Google Ads,Weekend Discount,New,1055,2267.53,111,,9670.12,39.69,15.32,9.27
+2023-03-20,Direct,Summer Sale,New,1578,1274.96,181,,3297.76,42.6,21.15,2.58
+2023-03-21,Direct,Holiday Offers,Returning,1551,559.98,138,269.0,6954.69,34.6,21.16,2.93
+2023-03-22,Organic Search,Summer Sale,New,608,996.04,286,289.0,9807.68,37.52,27.2,1.12
+2023-03-23,Email Campaign,Flash Deals,Returning,875,4679.61,91,136.0,4368.67,25.01,19.97,1.13
+2023-03-24,Email Campaign,Summer Sale,Returning,134,3227.53,138,26.0,1157.64,31.55,17.55,8.46
+2023-03-25,Email Campaign,Flash Deals,Returning,305,2631.81,451,156.0,3197.33,30.97,8.47,7.59
+2023-03-26,Organic Search,Winter Promo,New,1204,3319.85,345,195.0,8477.89,43.92,7.89,4.2
+2023-03-27,Email Campaign,Winter Promo,New,1685,2234.8,377,234.0,8781.48,43.6,8.86,7.28
+2023-03-28,Organic Search,Winter Promo,Returning,1995,3677.19,344,101.0,7916.67,43.31,9.3,4.56
+2023-03-29,Direct,Winter Promo,Returning,1511,333.81,153,242.0,2017.99,10.44,20.95,9.58
+2023-03-30,Email Campaign,Winter Promo,Returning,1125,2873.58,63,122.0,,39.98,23.52,9.7
+2023-03-31,Organic Search,Winter Promo,New,1121,877.37,337,292.0,9268.1,40.35,18.25,4.54
+2023-01-01,Direct,Summer Sale,Returning,1513,688.81,228,33.0,6405.49,37.14,25.73,8.69
+2023-01-02,Organic Search,Summer Sale,New,665,1775.21,174,178.0,9467.88,40.25,29.78,7.96
+2023-01-03,Google Ads,Summer Sale,Returning,1229,549.82,471,171.0,8441.55,43.68,25.5,3.79
+2023-01-04,Organic Search,Summer Sale,Returning,1895,561.37,402,127.0,7002.74,28.81,22.37,3.09
+2023-01-05,Google Ads,Winter Promo,New,1945,1625.93,72,207.0,6194.67,30.08,18.31,5.12
+2023-01-06,Google Ads,Flash Deals,Returning,1600,4899.6,112,117.0,4137.16,14.99,16.22,8.03
+2023-01-07,Social Media,Winter Promo,Returning,802,959.12,192,150.0,2433.59,25.42,7.11,9.64
+2023-01-08,Social Media,Flash Deals,New,501,,202,190.0,6444.59,35.73,14.98,7.87
+2023-01-09,Email Campaign,Winter Promo,New,829,3840.49,194,202.0,3863.0,41.22,27.75,8.7
+2023-01-10,Google Ads,Winter Promo,New,1679,4053.87,274,58.0,8797.95,18.69,25.2,6.43
+2023-01-11,Email Campaign,Flash Deals,New,261,1796.89,499,34.0,9940.03,15.51,10.4,8.52
+2023-01-12,Social Media,Holiday Offers,New,301,2376.9,358,23.0,,36.52,16.67,8.06
+2023-01-13,Organic Search,Summer Sale,New,1095,3283.89,153,229.0,1814.34,10.08,25.42,4.39
+2023-01-14,Organic Search,Holiday Offers,Returning,369,335.49,153,180.0,3598.17,17.13,6.68,5.97
+2023-01-15,Social Media,Winter Promo,Returning,1986,,484,35.0,1981.99,11.16,14.68,8.24
+2023-01-16,Direct,Flash Deals,Returning,915,,88,127.0,6854.6,16.68,26.3,1.41
+2023-01-17,Email Campaign,Summer Sale,New,1394,1378.38,484,246.0,7886.72,17.25,15.1,8.27
+2023-01-18,Direct,Summer Sale,New,555,174.99,247,189.0,9331.07,25.51,6.94,2.6
+2023-01-19,Google Ads,Winter Promo,Returning,1585,4673.84,183,53.0,,26.09,18.56,5.63
+2023-01-20,Social Media,Flash Deals,New,1850,2555.1,116,270.0,9112.38,44.97,26.54,8.27
+2023-01-21,Email Campaign,Winter Promo,Returning,1375,2742.95,440,266.0,8901.02,30.4,19.76,3.28
+2023-01-22,Google Ads,Flash Deals,New,1116,3451.42,228,288.0,3854.76,38.94,10.66,3.21
+2023-01-23,Organic Search,Weekend Discount,New,1825,3117.67,91,,8820.11,14.17,14.61,4.62
+2023-01-24,Direct,Holiday Offers,New,395,4725.07,497,293.0,4381.05,19.02,16.25,9.05
+2023-01-25,Google Ads,Winter Promo,Returning,1848,4726.83,64,115.0,,38.12,19.48,1.0
+2023-01-26,Google Ads,Winter Promo,New,819,4349.27,160,246.0,6841.67,12.11,23.98,9.11
+2023-01-27,Direct,Winter Promo,New,1872,3218.38,206,58.0,3955.43,29.46,7.47,2.38
+2023-01-28,Organic Search,Holiday Offers,New,437,4024.65,338,48.0,6671.88,33.97,27.24,9.91
+2023-01-29,Google Ads,Holiday Offers,Returning,978,3418.12,280,264.0,6488.49,34.09,5.31,9.59
+2023-01-30,Social Media,Winter Promo,New,1176,2909.5,460,255.0,6070.95,10.92,14.25,5.45
+2023-01-31,Google Ads,Weekend Discount,New,891,729.65,469,,4423.78,22.88,5.69,5.61
+2023-02-01,Direct,Summer Sale,Returning,316,4074.9,206,291.0,5936.5,35.46,14.82,5.33
+2023-02-02,Direct,Flash Deals,Returning,863,4121.13,87,255.0,6368.37,15.96,18.15,6.72
+2023-02-03,Social Media,Flash Deals,Returning,287,3167.1,490,,5911.18,37.82,17.79,1.82
+2023-02-04,Email Campaign,Holiday Offers,Returning,479,4120.09,146,285.0,4999.78,39.84,9.14,1.29
+2023-02-05,Direct,Flash Deals,Returning,592,3292.28,460,84.0,1132.0,49.28,21.14,1.52
+2023-02-06,Social Media,Holiday Offers,Returning,1164,1112.75,488,196.0,6283.56,18.39,6.12,5.0
+2023-02-07,Direct,Summer Sale,Returning,1280,1442.41,338,22.0,2516.0,43.01,24.05,3.48
+2023-02-08,Direct,Holiday Offers,New,114,1151.49,303,161.0,6783.18,30.81,28.67,6.6
+2023-02-09,Social Media,Holiday Offers,Returning,1936,1948.57,245,177.0,7834.1,24.94,13.49,9.93
+2023-02-10,Direct,Holiday Offers,Returning,164,290.92,135,165.0,,14.9,17.93,4.48
+2023-02-11,Google Ads,Summer Sale,Returning,1980,3129.44,371,172.0,5881.27,39.42,14.47,6.16
+2023-02-12,Direct,Summer Sale,Returning,1962,1749.12,59,212.0,9563.31,19.43,5.17,4.74
+2023-02-13,Direct,Flash Deals,Returning,620,3313.04,54,92.0,8624.51,24.86,14.65,8.63
+2023-02-14,Direct,Holiday Offers,New,1467,1988.44,172,159.0,9228.13,12.5,24.79,9.12
+2023-02-15,Organic Search,Holiday Offers,New,1252,3439.91,379,206.0,8323.9,42.05,19.9,8.9
+2023-02-16,Email Campaign,Flash Deals,New,747,1769.06,402,80.0,1980.27,40.66,7.53,9.77
+2023-02-17,Direct,Weekend Discount,Returning,1595,1377.4,167,217.0,2340.93,39.34,26.18,1.25
+2023-02-18,Organic Search,Winter Promo,Returning,1186,2530.58,343,30.0,5739.61,21.98,18.28,8.56
+2023-02-19,Email Campaign,Summer Sale,Returning,1262,3495.16,446,81.0,3214.63,16.94,26.04,7.77
+2023-02-20,Google Ads,Flash Deals,New,1622,1806.85,208,245.0,5290.26,35.5,19.51,3.06
+2023-02-21,Organic Search,Winter Promo,Returning,692,4689.58,352,,4549.29,29.85,18.99,9.61
+2023-02-22,Google Ads,Winter Promo,Returning,491,,277,218.0,5944.73,17.13,7.63,2.33
+2023-02-23,Email Campaign,Summer Sale,New,1798,2147.94,414,71.0,7721.88,37.44,9.18,7.12
+2023-02-24,Social Media,Summer Sale,New,518,4841.14,265,279.0,7439.42,49.65,29.3,3.02
+2023-02-25,Social Media,Weekend Discount,New,388,2785.06,485,78.0,5691.11,39.89,10.71,4.88
+2023-02-26,Email Campaign,Holiday Offers,New,478,2175.01,233,91.0,8401.54,39.6,29.44,7.47
+2023-02-27,Social Media,Weekend Discount,New,1896,,64,167.0,4877.76,48.01,18.3,6.07
+2023-02-28,Google Ads,Holiday Offers,New,1613,2922.03,206,82.0,9070.43,18.12,8.39,4.85
+2023-03-01,Google Ads,Holiday Offers,New,330,3685.07,185,262.0,1641.52,32.62,7.48,3.94
+2023-03-02,Direct,Holiday Offers,New,1117,725.68,310,126.0,9591.94,49.19,10.22,8.56
+2023-03-03,Organic Search,Summer Sale,Returning,140,1325.08,206,245.0,,16.61,28.14,2.29
+2023-03-04,Organic Search,Flash Deals,New,1151,2944.67,96,237.0,4420.67,38.01,15.35,4.87
+2023-03-05,Email Campaign,Weekend Discount,Returning,234,4348.87,373,260.0,2774.39,33.43,14.89,9.13
+2023-03-06,Google Ads,Summer Sale,New,300,2853.15,381,278.0,5312.65,33.46,12.83,8.61
+2023-03-07,Google Ads,Holiday Offers,New,1963,1269.12,222,281.0,2751.02,37.91,8.68,4.61
+2023-03-08,Social Media,Flash Deals,New,879,3431.24,179,24.0,2496.98,47.18,17.2,7.87
+2023-03-09,Google Ads,Winter Promo,Returning,1029,3725.55,460,280.0,6556.17,41.3,8.25,8.41
+2023-03-10,Social Media,Summer Sale,New,1156,1267.36,144,,5707.76,12.25,25.89,9.0
+2023-03-11,Email Campaign,Flash Deals,Returning,1171,1950.87,164,66.0,7030.86,44.11,14.26,5.9
+2023-03-12,Email Campaign,Holiday Offers,Returning,602,2718.2,292,234.0,9366.45,19.02,14.37,2.84
+2023-03-13,Direct,Weekend Discount,New,506,2533.15,469,,5790.34,25.08,16.85,3.3
+2023-03-14,Google Ads,Weekend Discount,Returning,1697,2009.13,341,,6228.39,28.47,16.1,3.66
+2023-03-15,Google Ads,Winter Promo,New,1851,1558.41,331,118.0,1806.64,29.24,29.87,6.34
+2023-03-16,Direct,Flash Deals,New,904,589.93,348,39.0,7458.72,27.41,18.63,1.3
+2023-03-17,Email Campaign,Weekend Discount,New,198,362.08,332,260.0,4599.15,47.49,7.21,6.72
+2023-03-18,Social Media,Summer Sale,Returning,783,4796.85,118,80.0,9790.53,38.24,20.17,4.28
+2023-03-19,Email Campaign,Winter Promo,Returning,1995,4251.0,197,197.0,8408.57,35.25,8.79,3.66
+2023-03-20,Google Ads,Flash Deals,New,825,,60,81.0,5702.33,11.99,5.77,8.92
+2023-03-21,Organic Search,Weekend Discount,Returning,1670,4788.32,303,164.0,2109.0,46.16,29.27,5.14
+2023-03-22,Email Campaign,Summer Sale,Returning,1060,3416.17,379,235.0,8734.74,46.38,24.34,1.86
+2023-03-23,Direct,Weekend Discount,New,1862,2464.35,409,22.0,8198.03,41.21,29.5,8.44
+2023-03-24,Organic Search,Summer Sale,Returning,712,2515.83,87,179.0,2661.27,10.28,16.95,1.43
+2023-03-25,Social Media,Weekend Discount,Returning,1585,508.09,183,246.0,3657.5,12.29,18.31,7.54
+2023-03-26,Direct,Summer Sale,New,742,549.35,249,288.0,8140.67,19.01,9.21,7.97
+2023-03-27,Social Media,Holiday Offers,Returning,1892,,72,139.0,2667.06,15.25,11.17,4.17
+2023-03-28,Direct,Summer Sale,Returning,1128,2813.14,352,108.0,9259.77,25.95,25.96,8.42
+2023-03-29,Organic Search,Flash Deals,New,1341,1142.37,395,87.0,,46.9,13.9,5.64
+2023-03-30,Organic Search,Summer Sale,Returning,602,4736.35,351,117.0,,28.88,25.67,5.17
+2023-03-31,Organic Search,Winter Promo,New,866,3928.35,412,286.0,8341.74,10.54,22.73,1.41
+2023-01-01,Direct,Weekend Discount,New,497,655.98,445,124.0,4361.59,21.31,9.43,3.61
+2023-01-02,Social Media,Summer Sale,Returning,970,4661.55,267,142.0,5738.49,11.78,17.69,9.38
+2023-01-03,Google Ads,Weekend Discount,New,894,4873.82,190,48.0,2010.74,11.45,21.93,4.53
+2023-01-04,Google Ads,Weekend Discount,Returning,492,4980.06,153,156.0,1023.26,21.03,10.88,5.92
+2023-01-05,Email Campaign,Weekend Discount,New,306,373.77,495,214.0,6741.87,21.02,25.77,5.79
+2023-01-06,Social Media,Flash Deals,New,1138,3711.47,259,245.0,5636.58,41.49,18.62,6.31
+2023-01-07,Direct,Summer Sale,New,1981,,160,189.0,6341.85,48.99,9.13,1.55
+2023-01-08,Social Media,Flash Deals,Returning,1677,3558.57,153,28.0,8143.69,24.85,19.57,4.26
+2023-01-09,Organic Search,Summer Sale,New,991,4846.39,365,59.0,6819.45,27.16,29.99,7.51
+2023-01-10,Email Campaign,Holiday Offers,Returning,1584,3471.35,220,44.0,2572.96,43.79,8.76,2.81
+2023-01-11,Google Ads,Flash Deals,Returning,1814,4201.12,405,280.0,4246.95,20.73,25.42,2.83
+2023-01-12,Organic Search,Holiday Offers,Returning,1698,4347.66,373,245.0,9153.02,16.26,10.18,1.09
+2023-01-13,Direct,Holiday Offers,New,963,4208.56,182,,7929.5,44.12,24.56,4.94
+2023-01-14,Google Ads,Winter Promo,Returning,842,2187.85,425,,6009.73,11.86,23.36,8.94
+2023-01-15,Google Ads,Weekend Discount,Returning,1364,1190.62,342,270.0,3300.8,34.79,12.51,1.47
+2023-01-16,Social Media,Flash Deals,New,663,2043.59,377,195.0,3718.54,32.48,13.15,2.72
+2023-01-17,Direct,Winter Promo,New,1120,4470.29,176,109.0,7587.62,23.84,24.81,3.79
+2023-01-18,Direct,Holiday Offers,New,195,818.36,155,56.0,8660.57,22.61,16.54,7.59
+2023-01-19,Direct,Summer Sale,Returning,1857,2615.3,141,195.0,7042.82,40.87,23.27,6.77
+2023-01-20,Email Campaign,Winter Promo,New,584,,336,100.0,,13.46,8.7,4.74
+2023-01-21,Direct,Flash Deals,New,1530,2948.4,427,133.0,7899.91,19.47,26.31,7.83
+2023-01-22,Organic Search,Weekend Discount,Returning,330,4329.38,442,,2347.34,39.3,22.77,6.49
+2023-01-23,Organic Search,Weekend Discount,Returning,848,4413.76,100,,4815.5,31.93,27.67,9.06
+2023-01-24,Social Media,Weekend Discount,Returning,1778,1259.76,78,134.0,2376.85,15.12,8.31,8.36
+2023-01-25,Google Ads,Weekend Discount,New,1294,4547.7,345,205.0,3117.12,45.29,19.83,3.28
+2023-01-26,Organic Search,Weekend Discount,New,640,3000.25,346,75.0,8823.34,25.74,19.98,3.44
+2023-01-27,Social Media,Summer Sale,Returning,1159,1816.07,263,59.0,5256.03,43.11,13.84,2.13
+2023-01-28,Organic Search,Weekend Discount,Returning,624,,316,59.0,5818.22,41.51,16.46,4.03
+2023-01-29,Email Campaign,Holiday Offers,Returning,1283,2460.17,456,256.0,2606.01,34.98,5.95,10.0
+2023-01-30,Email Campaign,Weekend Discount,New,1962,1952.14,306,281.0,3810.45,29.78,23.65,4.65
+2023-01-31,Google Ads,Summer Sale,Returning,1822,3554.91,351,235.0,3072.22,49.18,18.73,2.98
+2023-02-01,Email Campaign,Summer Sale,Returning,1366,,150,166.0,2855.68,15.8,6.44,7.86
+2023-02-02,Direct,Winter Promo,New,1209,1718.24,454,187.0,6741.65,39.01,22.02,5.88
+2023-02-03,Social Media,Weekend Discount,Returning,1919,2228.81,395,111.0,3311.95,17.65,16.67,2.35
+2023-02-04,Email Campaign,Summer Sale,New,677,1343.04,159,78.0,6688.14,23.53,5.86,4.43
+2023-02-05,Google Ads,Holiday Offers,New,781,2085.49,469,78.0,1526.09,22.35,29.24,4.73
+2023-02-06,Direct,Weekend Discount,New,656,2900.22,231,188.0,2275.97,47.88,28.73,7.78
+2023-02-07,Social Media,Winter Promo,Returning,1697,,362,288.0,3470.86,48.69,17.82,1.19
+2023-02-08,Direct,Flash Deals,New,1112,,50,64.0,6373.42,17.32,7.34,3.42
+2023-02-09,Social Media,Flash Deals,New,745,4131.67,368,200.0,7082.57,10.88,23.87,5.66
+2023-02-10,Organic Search,Summer Sale,New,895,3746.64,487,189.0,4984.45,38.8,17.3,3.42
+2023-02-11,Organic Search,Weekend Discount,Returning,1151,,104,210.0,5012.12,26.72,12.56,6.66
+2023-02-12,Google Ads,Holiday Offers,Returning,1743,1263.78,420,174.0,7520.65,13.55,17.29,5.34
+2023-02-13,Direct,Weekend Discount,Returning,1679,2061.09,473,207.0,1142.39,37.35,18.06,4.26
+2023-02-14,Email Campaign,Flash Deals,Returning,1463,2440.8,448,26.0,4069.81,31.8,19.07,9.54
+2023-02-15,Direct,Holiday Offers,New,1921,506.17,198,152.0,8368.36,49.22,16.03,6.69
+2023-02-16,Google Ads,Flash Deals,New,1454,2689.01,480,254.0,,19.1,20.14,2.17
+2023-02-17,Direct,Winter Promo,Returning,1763,2238.05,358,64.0,4035.04,26.16,27.97,6.04
+2023-02-18,Direct,Holiday Offers,New,1629,4030.34,186,268.0,9149.72,31.7,14.06,8.03
+2023-02-19,Google Ads,Holiday Offers,New,1471,4891.71,251,50.0,7953.6,41.67,23.14,7.38
+2023-02-20,Social Media,Weekend Discount,Returning,1596,,485,42.0,3384.06,31.95,27.36,2.55
+2023-02-21,Google Ads,Weekend Discount,New,1354,1681.16,362,,6807.61,34.52,16.4,9.75
+2023-02-22,Organic Search,Summer Sale,Returning,289,312.66,166,177.0,6361.76,19.05,16.09,5.04
+2023-02-23,Organic Search,Holiday Offers,New,1348,4630.75,203,58.0,4610.69,43.88,20.05,2.43
+2023-02-24,Direct,Winter Promo,New,1508,4603.67,474,101.0,4302.6,27.15,19.79,2.62
+2023-02-25,Google Ads,Weekend Discount,New,1500,1339.65,340,277.0,,15.64,25.16,1.88
+2023-02-26,Direct,Summer Sale,New,1406,3507.51,112,225.0,6554.4,36.57,16.91,8.23
+2023-02-27,Direct,Flash Deals,Returning,732,469.63,293,96.0,4981.69,18.64,29.9,2.1
+2023-02-28,Direct,Weekend Discount,Returning,727,914.46,74,31.0,8486.77,13.9,6.49,2.13
+2023-03-01,Email Campaign,Flash Deals,Returning,1072,1162.36,139,243.0,7026.42,44.48,5.08,8.65
+2023-03-02,Google Ads,Flash Deals,Returning,1868,1543.02,124,32.0,1629.38,28.41,21.0,4.1
+2023-03-03,Direct,Summer Sale,Returning,1382,4979.57,343,65.0,6761.51,39.97,12.46,1.28
+2023-03-04,Email Campaign,Winter Promo,New,1482,3514.93,435,174.0,3440.33,21.62,11.01,1.47
+2023-03-05,Social Media,Winter Promo,Returning,809,1982.59,440,132.0,6335.31,41.48,12.8,2.28
+2023-03-06,Direct,Holiday Offers,Returning,1579,3711.79,259,252.0,7121.19,14.48,11.4,2.92
+2023-03-07,Direct,Summer Sale,New,1534,4584.75,467,36.0,3077.46,24.24,5.77,6.99
+2023-03-08,Organic Search,Weekend Discount,New,748,4797.64,396,242.0,5111.73,49.12,29.29,2.42
+2023-03-09,Organic Search,Summer Sale,Returning,417,383.53,66,207.0,2712.92,41.76,10.52,2.07
+2023-03-10,Email Campaign,Holiday Offers,New,1800,2033.16,177,182.0,1471.05,29.89,23.35,7.88
+2023-03-11,Social Media,Winter Promo,Returning,1348,623.1,476,93.0,,23.59,24.06,7.04
+2023-03-12,Direct,Winter Promo,New,1942,1744.73,492,252.0,4266.5,44.89,28.23,4.92
+2023-03-13,Social Media,Winter Promo,Returning,1357,931.43,413,243.0,9959.32,31.79,5.76,5.94
+2023-03-14,Organic Search,Holiday Offers,Returning,783,3269.56,300,79.0,5017.17,40.34,26.8,3.81
+2023-03-15,Direct,Winter Promo,New,763,2002.52,228,241.0,4002.13,40.16,18.18,5.34
+2023-03-16,Organic Search,Winter Promo,New,1950,1224.03,231,56.0,,10.72,20.81,5.56
+2023-03-17,Direct,Weekend Discount,Returning,1497,1403.1,201,297.0,1798.91,15.05,21.11,4.49
+2023-03-18,Organic Search,Summer Sale,New,1795,1865.69,74,215.0,,36.39,25.49,9.16
+2023-03-19,Email Campaign,Winter Promo,Returning,1731,1373.75,229,,6714.64,16.46,13.34,1.14
+2023-03-20,Email Campaign,Flash Deals,Returning,1595,,247,238.0,7793.54,20.22,23.33,8.04
+2023-03-21,Direct,Holiday Offers,Returning,1356,,393,211.0,2534.3,47.87,18.21,2.12
+2023-03-22,Direct,Holiday Offers,New,1815,1470.84,210,,4685.3,32.41,24.83,8.18
+2023-03-23,Direct,Summer Sale,New,1236,2114.91,226,31.0,4804.2,40.03,29.76,6.54
+2023-03-24,Organic Search,Weekend Discount,Returning,1953,3053.63,334,212.0,,32.32,10.02,8.59
+2023-03-25,Email Campaign,Summer Sale,Returning,1620,1427.69,112,41.0,1011.13,32.1,29.87,1.88
+2023-03-26,Social Media,Weekend Discount,New,541,752.61,199,139.0,3707.68,13.77,7.25,6.03
+2023-03-27,Direct,Winter Promo,New,663,473.38,203,229.0,9831.13,23.75,5.06,5.51
+2023-03-28,Social Media,Holiday Offers,Returning,1391,,205,289.0,5273.98,21.3,6.1,7.36
+2023-03-29,Organic Search,Weekend Discount,New,1633,,419,211.0,,25.63,13.54,5.81
+2023-03-30,Email Campaign,Holiday Offers,New,1930,2947.7,98,194.0,2078.46,41.93,20.82,5.87
+2023-03-31,Organic Search,Holiday Offers,Returning,1509,4603.97,386,223.0,9767.48,24.88,6.73,4.87
+2023-01-01,Social Media,Flash Deals,New,1510,505.47,133,183.0,1180.24,28.07,5.14,3.78
+2023-01-02,Direct,Summer Sale,Returning,1236,4395.64,410,270.0,7634.62,25.9,28.43,5.34
+2023-01-03,Email Campaign,Winter Promo,New,1736,,226,246.0,7917.4,13.74,25.55,2.07
+2023-01-04,Email Campaign,Winter Promo,Returning,1748,,197,26.0,3192.91,27.64,25.23,9.65
+2023-01-05,Google Ads,Winter Promo,New,1051,2115.15,167,48.0,,17.82,27.11,7.43
+2023-01-06,Google Ads,Flash Deals,New,1204,,391,52.0,1836.36,17.47,22.5,9.57
+2023-01-07,Direct,Flash Deals,New,798,2453.81,112,153.0,3313.43,13.76,7.61,3.04
+2023-01-08,Google Ads,Summer Sale,Returning,212,4927.9,238,98.0,,24.27,14.98,8.91
+2023-01-09,Email Campaign,Weekend Discount,New,101,1946.02,409,77.0,8782.18,40.3,23.08,8.28
+2023-01-10,Social Media,Summer Sale,New,741,3772.93,98,45.0,6476.38,21.06,12.01,7.09
+2023-01-11,Google Ads,Summer Sale,Returning,319,2025.65,376,245.0,5561.55,22.49,22.19,6.63
+2023-01-12,Direct,Weekend Discount,Returning,1689,4162.9,306,23.0,2433.74,35.71,5.61,3.85
+2023-01-13,Google Ads,Winter Promo,Returning,954,2888.5,273,118.0,1567.98,17.83,12.65,8.35
+2023-01-14,Organic Search,Weekend Discount,New,1859,411.21,190,58.0,2058.84,45.88,18.73,5.51
+2023-01-15,Direct,Winter Promo,Returning,1348,280.43,264,,,30.81,20.8,1.64
+2023-01-16,Google Ads,Flash Deals,New,484,755.88,484,176.0,4075.07,27.9,19.43,3.82
+2023-01-17,Social Media,Weekend Discount,New,1526,166.99,428,94.0,4428.19,32.31,22.44,9.42
+2023-01-18,Google Ads,Weekend Discount,New,1761,469.26,489,149.0,4116.9,16.64,5.15,8.66
+2023-01-19,Email Campaign,Holiday Offers,New,1253,3489.4,260,194.0,3151.5,34.54,7.52,9.84
+2023-01-20,Email Campaign,Winter Promo,Returning,1176,2718.3,367,103.0,5587.52,24.52,26.72,6.65
+2023-01-21,Social Media,Weekend Discount,New,1807,3774.56,81,41.0,8427.57,45.89,22.04,3.23
+2023-01-22,Social Media,Weekend Discount,New,829,,207,46.0,3517.33,16.75,7.82,2.47
+2023-01-23,Organic Search,Summer Sale,New,1795,2967.23,334,214.0,9481.48,30.28,26.05,2.68
+2023-01-24,Email Campaign,Winter Promo,Returning,1833,3657.99,354,255.0,,33.92,11.06,1.18
+2023-01-25,Google Ads,Holiday Offers,Returning,1539,3809.7,478,111.0,,11.34,16.96,4.52
+2023-01-26,Google Ads,Summer Sale,Returning,346,1951.47,335,40.0,8076.48,24.55,8.63,2.72
+2023-01-27,Direct,Flash Deals,New,935,,193,103.0,6171.29,39.31,22.75,4.7
+2023-01-28,Google Ads,Winter Promo,New,1562,1104.72,473,281.0,6099.18,42.82,21.67,9.41
+2023-01-29,Organic Search,Winter Promo,Returning,302,1332.07,68,166.0,4519.38,22.53,10.28,4.87
+2023-01-30,Email Campaign,Winter Promo,New,1307,1446.19,67,276.0,5510.38,41.94,26.59,8.9
+2023-01-31,Direct,Summer Sale,New,222,1115.42,306,,4574.61,48.71,15.03,6.45
+2023-02-01,Direct,Holiday Offers,New,500,4403.28,127,34.0,5857.59,44.27,12.31,3.22
+2023-02-02,Social Media,Summer Sale,Returning,866,3809.3,420,181.0,6651.55,14.71,8.81,4.2
+2023-02-03,Social Media,Weekend Discount,New,393,329.79,224,182.0,7068.73,39.59,11.65,1.76
+2023-02-04,Social Media,Summer Sale,New,379,1416.5,243,299.0,5792.33,22.79,5.55,4.0
+2023-02-05,Google Ads,Holiday Offers,New,1960,208.71,162,31.0,7492.8,49.54,19.58,7.1
+2023-02-06,Email Campaign,Winter Promo,New,983,2541.01,163,293.0,2271.5,29.41,26.06,1.65
+2023-02-07,Direct,Weekend Discount,Returning,1733,2433.43,271,290.0,2907.84,14.9,18.72,2.85
+2023-02-08,Direct,Weekend Discount,Returning,297,4173.72,215,227.0,8368.62,39.01,10.48,4.43
+2023-02-09,Social Media,Winter Promo,New,1081,1608.11,484,46.0,3902.75,22.92,5.84,9.84
+2023-02-10,Direct,Flash Deals,Returning,1634,4100.29,368,91.0,,49.88,10.37,8.06
+2023-02-11,Email Campaign,Weekend Discount,New,851,4843.07,181,79.0,2384.12,49.19,15.4,7.6
+2023-02-12,Organic Search,Holiday Offers,New,243,533.2,434,164.0,3012.53,36.25,23.99,2.05
+2023-02-13,Email Campaign,Weekend Discount,Returning,708,3979.91,313,112.0,9615.91,15.19,9.7,8.03
+2023-02-14,Google Ads,Flash Deals,New,1324,2990.78,462,27.0,6157.37,37.47,22.99,8.07
+2023-02-15,Google Ads,Holiday Offers,Returning,1247,2452.23,104,98.0,9394.58,13.72,26.67,6.41
+2023-02-16,Organic Search,Flash Deals,Returning,286,2160.63,408,46.0,6176.47,11.17,16.35,9.91
+2023-02-17,Direct,Summer Sale,Returning,1449,3944.87,180,193.0,5314.19,42.92,25.54,3.93
+2023-02-18,Direct,Weekend Discount,Returning,563,3232.87,337,69.0,3823.55,18.39,18.87,9.47
+2023-02-19,Google Ads,Summer Sale,New,1472,4044.72,315,218.0,6457.34,25.16,20.93,9.23
+2023-02-20,Google Ads,Flash Deals,New,1894,4525.44,415,200.0,2252.78,48.94,18.16,1.1
+2023-02-21,Direct,Summer Sale,New,759,3124.59,211,43.0,9084.35,23.47,16.58,5.05
+2023-02-22,Organic Search,Holiday Offers,Returning,863,4904.27,429,,8463.99,21.86,10.87,9.79
+2023-02-23,Organic Search,Weekend Discount,Returning,1054,3079.63,136,,3857.78,46.73,12.58,1.93
+2023-02-24,Social Media,Winter Promo,Returning,502,,104,172.0,,14.43,12.25,5.93
+2023-02-25,Social Media,Holiday Offers,New,1469,,337,241.0,8426.81,40.38,19.08,9.81
+2023-02-26,Email Campaign,Weekend Discount,Returning,1634,545.91,227,225.0,6996.76,49.52,8.0,6.0
+2023-02-27,Email Campaign,Weekend Discount,Returning,246,3659.35,440,292.0,2095.86,46.05,27.92,2.71
+2023-02-28,Email Campaign,Flash Deals,New,1271,2782.49,398,255.0,5304.11,36.07,23.02,6.24
+2023-03-01,Google Ads,Winter Promo,New,963,2309.46,57,247.0,,22.56,15.04,2.84
+2023-03-02,Email Campaign,Flash Deals,Returning,1834,4561.31,370,28.0,3092.96,20.17,8.97,5.68
+2023-03-03,Direct,Flash Deals,New,1943,1560.0,362,185.0,1719.69,42.77,27.05,1.67
+2023-03-04,Organic Search,Winter Promo,Returning,588,2665.65,296,233.0,7990.51,45.19,25.59,6.45
+2023-03-05,Organic Search,Summer Sale,New,1028,3518.45,372,136.0,2098.32,31.02,23.04,5.65
+2023-03-06,Email Campaign,Flash Deals,New,1763,4002.71,492,91.0,6348.62,19.77,11.79,7.66
+2023-03-07,Organic Search,Flash Deals,Returning,650,2350.8,304,83.0,9428.04,14.52,15.06,6.68
+2023-03-08,Social Media,Flash Deals,New,437,4226.25,377,224.0,8884.95,13.49,7.57,5.95
+2023-03-09,Google Ads,Summer Sale,New,971,3867.7,103,228.0,3499.77,38.76,9.73,7.21
+2023-03-10,Google Ads,Winter Promo,New,740,424.56,298,91.0,8663.04,26.8,24.58,2.3
+2023-03-11,Organic Search,Summer Sale,New,1902,324.72,288,296.0,1002.99,46.21,22.88,6.36
+2023-03-12,Organic Search,Holiday Offers,Returning,572,3141.95,278,293.0,1159.19,39.59,19.84,2.55
+2023-03-13,Social Media,Weekend Discount,Returning,250,,116,114.0,6422.98,17.65,27.39,9.33
+2023-03-14,Direct,Winter Promo,Returning,1538,1124.74,100,185.0,4283.18,34.55,19.58,1.62
+2023-03-15,Organic Search,Holiday Offers,Returning,1421,2940.28,146,51.0,,27.42,16.67,4.87
+2023-03-16,Social Media,Flash Deals,Returning,1734,1773.66,141,,6079.97,33.09,13.51,7.26
+2023-03-17,Google Ads,Weekend Discount,New,362,2732.59,313,236.0,2726.04,39.52,28.51,5.12
+2023-03-18,Direct,Weekend Discount,Returning,1887,2354.58,467,121.0,2905.8,42.25,7.07,1.83
+2023-03-19,Social Media,Holiday Offers,Returning,243,2965.35,340,286.0,5361.41,43.75,28.27,5.98
+2023-03-20,Google Ads,Flash Deals,Returning,445,,145,233.0,,20.16,25.67,6.77
+2023-03-21,Email Campaign,Weekend Discount,New,723,3518.57,137,198.0,,11.24,8.25,7.33
+2023-03-22,Email Campaign,Winter Promo,New,1116,982.33,127,107.0,,39.57,19.12,4.36
+2023-03-23,Organic Search,Holiday Offers,Returning,1695,3512.86,337,60.0,4873.03,14.25,26.66,6.07
+2023-03-24,Direct,Holiday Offers,New,980,2117.14,169,95.0,,22.6,19.3,5.06
+2023-03-25,Social Media,Winter Promo,New,101,4384.16,351,65.0,1671.67,10.15,27.68,7.05
+2023-03-26,Organic Search,Summer Sale,Returning,996,2624.66,449,179.0,8044.26,37.27,28.57,6.25
+2023-03-27,Social Media,Holiday Offers,New,1427,,214,,3388.49,16.69,15.56,5.73
+2023-03-28,Google Ads,Flash Deals,New,353,3049.48,231,,2599.9,36.21,14.43,3.25
+2023-03-29,Social Media,Flash Deals,New,1775,1196.86,447,111.0,,49.67,28.41,1.02
+2023-03-30,Social Media,Winter Promo,New,552,4126.77,272,167.0,6562.47,12.91,21.88,2.57
+2023-03-31,Google Ads,Flash Deals,Returning,1160,1790.9,360,180.0,6698.71,13.08,7.9,2.05
+2023-01-01,Social Media,Winter Promo,Returning,1283,1803.33,481,221.0,,23.62,6.06,5.04
+2023-01-02,Social Media,Weekend Discount,Returning,1114,255.84,56,261.0,,44.66,19.12,6.51
+2023-01-03,Google Ads,Winter Promo,New,108,2788.71,379,21.0,2987.22,18.62,28.25,2.92
+2023-01-04,Google Ads,Winter Promo,Returning,1356,2718.68,312,244.0,2563.77,24.42,26.11,9.45
+2023-01-05,Email Campaign,Flash Deals,Returning,1222,1844.36,210,252.0,6901.51,12.74,21.9,1.06
+2023-01-06,Social Media,Flash Deals,New,1782,4481.66,200,96.0,8632.14,40.53,8.48,7.95
+2023-01-07,Google Ads,Holiday Offers,Returning,915,,134,135.0,7518.86,26.33,11.36,6.63
+2023-01-08,Social Media,Winter Promo,Returning,307,,196,173.0,8128.84,40.37,26.89,4.36
+2023-01-09,Direct,Flash Deals,Returning,1254,1675.76,161,,4643.19,46.14,9.57,1.45
+2023-01-10,Email Campaign,Holiday Offers,New,503,,430,213.0,6886.68,19.31,11.96,6.65
+2023-01-11,Email Campaign,Winter Promo,Returning,251,2457.61,452,185.0,4188.13,42.3,8.24,4.47
+2023-01-12,Email Campaign,Holiday Offers,Returning,153,3470.15,85,,5729.54,12.36,21.9,9.43
+2023-01-13,Google Ads,Winter Promo,Returning,1243,2607.12,334,193.0,5334.71,45.95,28.6,5.88
+2023-01-14,Social Media,Flash Deals,Returning,1796,869.19,237,141.0,2591.98,36.03,11.72,9.46
+2023-01-15,Email Campaign,Holiday Offers,Returning,727,1948.7,131,162.0,4483.71,44.97,16.89,2.98
+2023-01-16,Google Ads,Holiday Offers,New,686,112.72,51,,9674.4,10.01,20.86,7.53
+2023-01-17,Direct,Flash Deals,New,1748,4354.68,434,142.0,3237.22,16.76,29.99,6.56
+2023-01-18,Social Media,Winter Promo,Returning,1543,514.13,352,28.0,2204.23,25.59,7.62,7.65
+2023-01-19,Google Ads,Summer Sale,New,1545,3026.66,246,281.0,4767.23,25.18,17.46,2.93
+2023-01-20,Google Ads,Summer Sale,New,203,,453,92.0,8113.04,19.07,14.63,6.98
+2023-01-21,Social Media,Summer Sale,New,1975,2729.29,60,242.0,6239.33,25.26,26.65,5.48
+2023-01-22,Social Media,Weekend Discount,Returning,353,4627.8,283,60.0,7128.77,15.15,16.9,7.69
+2023-01-23,Google Ads,Holiday Offers,Returning,1350,1256.97,435,223.0,2707.25,26.51,7.77,3.94
+2023-01-24,Google Ads,Weekend Discount,New,1235,3823.78,244,283.0,6570.53,42.09,20.86,9.01
+2023-01-25,Direct,Holiday Offers,Returning,609,2703.2,168,197.0,3911.5,29.16,24.27,1.76
+2023-01-26,Google Ads,Summer Sale,Returning,1596,3630.53,445,103.0,8508.73,10.72,5.07,8.26
+2023-01-27,Email Campaign,Flash Deals,Returning,198,405.47,69,130.0,6663.69,26.86,26.47,8.75
+2023-01-28,Google Ads,Summer Sale,New,252,823.92,310,,2789.71,11.09,9.65,8.36
+2023-01-29,Organic Search,Summer Sale,New,1984,752.27,342,,1581.55,48.65,18.8,5.61
+2023-01-30,Google Ads,Holiday Offers,New,1013,3467.11,471,103.0,1383.7,15.1,15.39,4.95
+2023-01-31,Google Ads,Flash Deals,Returning,977,4237.76,305,227.0,4342.68,38.31,22.99,9.97
+2023-02-01,Email Campaign,Weekend Discount,Returning,437,3773.12,271,41.0,3392.66,48.91,14.28,3.06
+2023-02-02,Google Ads,Winter Promo,Returning,1829,249.31,442,22.0,6814.81,43.04,26.74,5.92
+2023-02-03,Organic Search,Flash Deals,Returning,921,4349.35,275,146.0,5494.0,37.97,23.26,7.04
+2023-02-04,Social Media,Flash Deals,Returning,1286,1835.32,102,207.0,3394.17,43.58,21.19,7.31
+2023-02-05,Social Media,Flash Deals,New,1843,2046.1,477,,2343.14,49.27,24.91,2.84
+2023-02-06,Direct,Winter Promo,New,1056,613.86,404,31.0,2144.8,34.85,23.85,6.89
+2023-02-07,Email Campaign,Winter Promo,Returning,1804,3713.29,391,106.0,8781.94,32.37,5.9,8.37
+2023-02-08,Email Campaign,Holiday Offers,Returning,260,993.19,413,,3191.3,35.13,14.87,1.45
+2023-02-09,Google Ads,Weekend Discount,New,1703,2863.43,329,44.0,6865.4,31.31,28.27,9.2
+2023-02-10,Social Media,Flash Deals,New,900,4219.48,130,262.0,8296.17,35.4,8.14,1.27
+2023-02-11,Email Campaign,Holiday Offers,Returning,497,537.1,251,141.0,6526.73,27.99,23.43,4.2
+2023-02-12,Organic Search,Weekend Discount,Returning,1400,2723.14,207,166.0,8736.09,18.74,29.36,1.14
+2023-02-13,Direct,Summer Sale,New,915,1242.76,169,74.0,4531.54,14.81,6.3,1.69
+2023-02-14,Direct,Summer Sale,Returning,1627,1780.34,108,257.0,9606.0,12.73,22.05,9.2
+2023-02-15,Social Media,Summer Sale,New,1515,2422.45,264,192.0,,20.53,16.7,4.19
+2023-02-16,Organic Search,Flash Deals,New,1258,1840.01,177,,1919.35,11.84,19.48,4.82
+2023-02-17,Organic Search,Flash Deals,Returning,1318,3279.23,273,138.0,6928.23,32.69,7.13,2.94
+2023-02-18,Organic Search,Weekend Discount,Returning,500,2449.95,258,202.0,9485.48,21.35,6.08,6.37
+2023-02-19,Email Campaign,Holiday Offers,New,739,2962.58,419,101.0,,42.98,21.67,6.35
+2023-02-20,Organic Search,Winter Promo,Returning,1156,3710.43,164,230.0,1687.75,12.97,25.58,4.35
+2023-02-21,Google Ads,Winter Promo,New,787,2832.94,258,,3514.31,19.05,24.55,4.0
+2023-02-22,Organic Search,Summer Sale,Returning,559,2974.02,63,56.0,,39.21,18.6,8.96
+2023-02-23,Organic Search,Winter Promo,Returning,1054,2865.85,58,78.0,3277.53,33.95,7.5,4.45
+2023-02-24,Direct,Summer Sale,New,569,1955.99,89,150.0,8030.53,12.58,22.2,5.44
+2023-02-25,Direct,Weekend Discount,New,1498,,499,221.0,8426.19,45.09,11.05,3.55
+2023-02-26,Email Campaign,Flash Deals,New,1145,4508.27,286,262.0,5459.07,45.09,27.78,8.08
+2023-02-27,Google Ads,Holiday Offers,New,849,3077.02,330,54.0,4477.14,23.22,25.96,4.58
+2023-02-28,Social Media,Winter Promo,New,1793,1297.33,408,112.0,5051.12,23.62,22.73,5.62
+2023-03-01,Social Media,Flash Deals,Returning,137,2541.41,250,226.0,3042.68,49.56,28.72,3.28
+2023-03-02,Email Campaign,Holiday Offers,Returning,329,1718.71,295,232.0,9004.52,35.05,5.79,9.89
+2023-03-03,Social Media,Weekend Discount,New,1488,4675.09,327,178.0,5055.58,31.25,23.41,3.62
+2023-03-04,Social Media,Summer Sale,New,662,136.92,284,43.0,,43.53,13.26,7.94
+2023-03-05,Organic Search,Flash Deals,Returning,537,1204.13,53,23.0,,21.41,27.65,4.85
+2023-03-06,Social Media,Holiday Offers,New,1899,1890.25,203,239.0,9894.48,27.17,11.67,2.86
+2023-03-07,Social Media,Weekend Discount,Returning,1406,2490.27,491,39.0,4989.46,20.71,23.12,8.2
+2023-03-08,Direct,Summer Sale,New,126,,78,,1430.48,41.57,26.94,4.0
+2023-03-09,Direct,Winter Promo,New,325,530.65,158,69.0,1342.2,32.93,6.04,8.79
+2023-03-10,Email Campaign,Holiday Offers,Returning,1400,4048.74,147,196.0,7715.87,36.35,14.94,9.24
+2023-03-11,Direct,Flash Deals,Returning,897,372.7,264,115.0,6931.32,20.09,24.06,8.74
+2023-03-12,Social Media,Flash Deals,Returning,1732,4227.34,342,124.0,8219.18,18.81,16.37,1.32
+2023-03-13,Organic Search,Weekend Discount,New,383,353.01,124,,1948.31,29.53,11.68,8.09
+2023-03-14,Organic Search,Winter Promo,New,978,189.39,375,136.0,1320.14,39.5,10.5,4.7
+2023-03-15,Email Campaign,Weekend Discount,Returning,1059,3515.11,195,,5577.21,31.01,8.29,8.86
+2023-03-16,Email Campaign,Summer Sale,New,1604,4986.55,177,85.0,4488.36,11.31,26.43,6.74
+2023-03-17,Email Campaign,Flash Deals,New,552,4493.39,390,281.0,5157.52,44.74,19.38,8.5
+2023-03-18,Google Ads,Weekend Discount,New,1119,,91,,9924.3,12.59,6.91,5.49
+2023-03-19,Social Media,Summer Sale,New,1952,4595.24,405,205.0,9736.75,48.23,14.56,5.82
+2023-03-20,Direct,Winter Promo,Returning,915,,90,,9480.84,11.01,14.19,2.3
+2023-03-21,Google Ads,Flash Deals,New,758,4877.83,471,144.0,8054.58,37.78,9.54,8.06
+2023-03-22,Google Ads,Holiday Offers,Returning,1639,2504.67,83,287.0,4193.57,13.29,15.89,4.77
+2023-03-23,Direct,Holiday Offers,Returning,646,3642.19,66,150.0,4709.18,46.43,13.3,5.5
+2023-03-24,Google Ads,Winter Promo,Returning,1315,4122.22,214,256.0,,28.58,13.55,8.07
+2023-03-25,Direct,Weekend Discount,New,1172,,202,,8474.81,15.5,23.48,6.39
+2023-03-26,Social Media,Summer Sale,New,1635,2721.68,427,59.0,,23.63,10.58,2.81
+2023-03-27,Organic Search,Weekend Discount,Returning,116,2435.44,125,40.0,4818.67,16.59,21.05,6.31
+2023-03-28,Google Ads,Winter Promo,New,1295,4209.05,136,244.0,1743.56,16.82,19.27,4.67
+2023-03-29,Email Campaign,Flash Deals,Returning,1343,1104.88,166,27.0,5631.92,47.92,19.2,5.23
+2023-03-30,Google Ads,Weekend Discount,Returning,257,4843.17,411,119.0,9090.11,27.81,21.58,1.25
+2023-03-31,Social Media,Winter Promo,Returning,576,3583.67,391,259.0,8042.36,41.55,18.71,2.89
